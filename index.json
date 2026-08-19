@@ -1,60 +1,24 @@
 {
-  "generated": "2026-08-19T22:06:32+00:00",
-  "description": "Índice consolidado do catálogo Recomp Games Hub. O app lê este arquivo para montar a Home.",
+  "generated": "2026-08-19T23:00:00+00:00",
+  "description": "Índice de dados dos recomp Android solicitados.",
   "games": [
     {
       "slug": "unleashed-recomp",
       "name": "Sonic Unleashed Recompiled",
       "status": "released",
-      "version": "1.4.2",
+      "version": "0.5.3",
       "platform": "Xbox 360 / PlayStation 3",
-      "cover": "cover.png",
-      "lastUpdated": "2026-08-12"
+      "cover": "games/unleashed-recomp/cover.jpg",
+      "lastUpdated": "2026-07-22"
     },
     {
-      "slug": "fable-2-recomp",
-      "name": "Fable II Recompiled",
-      "status": "beta",
-      "version": "0.9.9",
+      "slug": "skate3-mobile",
+      "name": "Skate 3 Mobile",
+      "status": "released",
+      "version": "2.0.17",
       "platform": "Xbox 360",
-      "cover": "cover.png",
-      "lastUpdated": "2026-07-30"
-    },
-    {
-      "slug": "starfox-64-recomp",
-      "name": "Star Fox 64 Recompiled",
-      "status": "beta",
-      "version": "0.8.0",
-      "platform": "Nintendo 64",
-      "cover": "cover.png",
-      "lastUpdated": "2026-06-18"
-    },
-    {
-      "slug": "jet-set-radio-recomp",
-      "name": "Jet Set Radio Recompiled",
-      "status": "beta",
-      "version": "0.6.3",
-      "platform": "Dreamcast / PS2",
-      "cover": "cover.png",
-      "lastUpdated": "2026-07-02"
-    },
-    {
-      "slug": "silent-hill-2-recomp",
-      "name": "Silent Hill 2 Recompilado",
-      "status": "in-development",
-      "version": "0.3.1",
-      "platform": "PlayStation 2 / PC",
-      "cover": "cover.png",
-      "lastUpdated": "2026-05-20"
-    },
-    {
-      "slug": "snowboard-kids-2-recomp",
-      "name": "Snowboard Kids 2 Recomp",
-      "status": "alpha",
-      "version": "0.2.0",
-      "platform": "Nintendo 64",
-      "cover": "cover.png",
-      "lastUpdated": "2026-04-15"
+      "cover": "games/skate3-mobile/cover.png",
+      "lastUpdated": "2026-08-19"
     }
   ]
 }

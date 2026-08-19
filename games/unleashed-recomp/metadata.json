@@ -1,26 +1,27 @@
 {
   "slug": "unleashed-recomp",
   "name": "Sonic Unleashed Recompiled",
-  "description": "Sonic Unleashed reconstruído a partir do código original do Xbox 360/PS3 e recompilado para rodar nativamente. Inclui as duas eras de gameplay (dia e noite), mundos abertos e tecnologia Hedgehog Engine restaurada.",
+  "description": "Sonic Unleashed recompilado para execução nativa no Android, com as eras de gameplay diurna e noturna e conteúdo baseado na versão original de Xbox 360 / PlayStation 3.",
   "originalPlatform": "Xbox 360 / PlayStation 3",
-  "author": "HedgeDev",
-  "sourceRepo": "https://github.com/hedge-dev/UnleashedRecomp",
+  "author": "SansNope",
+  "sourceRepo": "https://github.com/SansNope/UnleashedRecomp-Android",
   "status": "released",
-  "version": "1.4.2",
-  "downloadUrl": null,
-  "fileSizeBytes": 0,
-  "sha256": null,
+  "version": "0.5.3",
+  "downloadUrl": "https://github.com/SansNope/UnleashedRecomp-Android/releases/download/v0.5.3/UnleashedRecomp-0.5.3.apk",
+  "fileSizeBytes": 67035734,
+  "sha256": "594cc2cb39289fafa80e20789849c84ac6d9d8e0fd3c9d3ef356ce4e6fe726cd",
   "tags": [
+    "Android",
     "3D Platformer",
     "Ação",
     "Aventura"
   ],
-  "lastUpdated": "2026-08-12",
-  "banner": "banner.png",
-  "cover": "cover.png",
+  "lastUpdated": "2026-07-22",
+  "banner": "banner.jpg",
+  "cover": "cover.jpg",
   "screenshots": [
-    "screenshots/1.png",
-    "screenshots/2.png",
-    "screenshots/3.png"
+    "screenshots/1.jpg",
+    "screenshots/2.jpg",
+    "screenshots/3.jpg"
   ]
 }

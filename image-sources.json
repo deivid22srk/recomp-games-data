@@ -1,0 +1,36 @@
+{
+  "gameSlug": "unleashed-recomp",
+  "note": "Imagens públicas encontradas na internet e usadas como referências visuais do port Android. Os direitos das imagens permanecem com seus respectivos autores e plataformas.",
+  "images": [
+    {
+      "path": "games/unleashed-recomp/cover.jpg",
+      "sourcePage": "https://www.youtube.com/watch?v=ya7GXrMNa2s",
+      "sourceImage": "https://i.ytimg.com/vi/ya7GXrMNa2s/maxresdefault.jpg",
+      "context": "[OLD VERSION] Sonic Unleashed on Android"
+    },
+    {
+      "path": "games/unleashed-recomp/banner.jpg",
+      "sourcePage": "https://www.youtube.com/watch?v=WEilkXi75N0",
+      "sourceImage": "https://i.ytimg.com/vi/WEilkXi75N0/maxresdefault.jpg",
+      "context": "Sonic Unleashed Recompiled — New Android Port Gameplay"
+    },
+    {
+      "path": "games/unleashed-recomp/screenshots/1.jpg",
+      "sourcePage": "https://www.youtube.com/watch?v=m0jgn3ECxWM",
+      "sourceImage": "https://i.ytimg.com/vi/m0jgn3ECxWM/maxresdefault.jpg",
+      "context": "How to Play Sonic Unleashed Recompiled on Android — Winlator"
+    },
+    {
+      "path": "games/unleashed-recomp/screenshots/2.jpg",
+      "sourcePage": "https://www.youtube.com/watch?v=nPuImNp0sXw",
+      "sourceImage": "https://i.ytimg.com/vi/nPuImNp0sXw/maxresdefault.jpg",
+      "context": "Unleashed Recompiled Android Port Release Version"
+    },
+    {
+      "path": "games/unleashed-recomp/screenshots/3.jpg",
+      "sourcePage": "https://www.youtube.com/watch?v=gI7_MpXYGEE",
+      "sourceImage": "https://i.ytimg.com/vi/gI7_MpXYGEE/maxresdefault.jpg",
+      "context": "Sonic Unleashed Recompiled Full Android Port"
+    }
+  ]
+}

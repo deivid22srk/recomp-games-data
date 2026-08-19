@@ -1,0 +1,24 @@
+{
+  "slug": "skate3-mobile",
+  "name": "Skate 3 Mobile",
+  "description": "Recompilação ARM64 de Skate 3 para Android com renderização Vulkan. O aplicativo usa uma ISO do Xbox 360 fornecida pelo próprio usuário.",
+  "originalPlatform": "Xbox 360",
+  "author": "Buku313",
+  "sourceRepo": "https://github.com/Buku313/Skate3-Mobile",
+  "status": "released",
+  "version": "2.0.17",
+  "downloadUrl": "https://github.com/Buku313/Skate3-Mobile/releases/download/v2.0.17/Skate3-Mobile-Android.apk",
+  "fileSizeBytes": 36004809,
+  "sha256": "ba68e51746f3358b3bf800b2180e22ca464378a03b47b71170d55521b83ede68",
+  "tags": [
+    "Android",
+    "Esportes",
+    "Skate",
+    "ARM64",
+    "Vulkan"
+  ],
+  "lastUpdated": "2026-08-19",
+  "banner": "banner.png",
+  "cover": "cover.png",
+  "screenshots": []
+}
