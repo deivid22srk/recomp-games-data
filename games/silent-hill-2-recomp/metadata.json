@@ -1,0 +1,25 @@
+{
+  "slug": "silent-hill-2-recomp",
+  "name": "Silent Hill 2 Recompilado",
+  "description": "Silent Hill 2 em processo de recompilação. O clássico terror psicológico de Silent Hill sendo reerguido para plataformas modernas.",
+  "originalPlatform": "PlayStation 2 / PC",
+  "author": "SilentHillRecomp",
+  "sourceRepo": "https://github.com/silent-hill-2-recomp",
+  "status": "in-development",
+  "version": "0.3.1",
+  "downloadUrl": null,
+  "fileSizeBytes": 0,
+  "sha256": null,
+  "tags": [
+    "Terror",
+    "Survival Horror"
+  ],
+  "lastUpdated": "2026-05-20",
+  "banner": "banner.png",
+  "cover": "cover.png",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ]
+}

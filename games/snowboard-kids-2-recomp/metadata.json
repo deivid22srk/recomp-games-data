@@ -1,0 +1,26 @@
+{
+  "slug": "snowboard-kids-2-recomp",
+  "name": "Snowboard Kids 2 Recomp",
+  "description": "Snowboard Kids 2 recompilado do N64: corridas rápidas, snowboards customizados e minigames disputando pista a pista.",
+  "originalPlatform": "Nintendo 64",
+  "author": "SnowboardKids",
+  "sourceRepo": "https://github.com/snowboardkids2-recomp",
+  "status": "alpha",
+  "version": "0.2.0",
+  "downloadUrl": null,
+  "fileSizeBytes": 0,
+  "sha256": null,
+  "tags": [
+    "Corrida",
+    "Esporte",
+    "Multiplayer"
+  ],
+  "lastUpdated": "2026-04-15",
+  "banner": "banner.png",
+  "cover": "cover.png",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ]
+}

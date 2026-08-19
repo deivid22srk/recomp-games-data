@@ -1,0 +1,26 @@
+{
+  "slug": "jet-set-radio-recomp",
+  "name": "Jet Set Radio Recompiled",
+  "description": "Jet Set Radio recompilado para PC/Android. Role, grafite e enfrente as autoridades em Tokyo-to — agora com suporte a gamepad e alta resolução.",
+  "originalPlatform": "Dreamcast / PS2",
+  "author": "JSRTeam",
+  "sourceRepo": "https://github.com/jet-set-radio-recomp",
+  "status": "beta",
+  "version": "0.6.3",
+  "downloadUrl": null,
+  "fileSizeBytes": 0,
+  "sha256": null,
+  "tags": [
+    "Casual",
+    "Estilo",
+    "Música"
+  ],
+  "lastUpdated": "2026-07-02",
+  "banner": "banner.png",
+  "cover": "cover.png",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ]
+}

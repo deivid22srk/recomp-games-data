@@ -1,0 +1,26 @@
+{
+  "slug": "unleashed-recomp",
+  "name": "Sonic Unleashed Recompiled",
+  "description": "Sonic Unleashed reconstruído a partir do código original do Xbox 360/PS3 e recompilado para rodar nativamente. Inclui as duas eras de gameplay (dia e noite), mundos abertos e tecnologia Hedgehog Engine restaurada.",
+  "originalPlatform": "Xbox 360 / PlayStation 3",
+  "author": "HedgeDev",
+  "sourceRepo": "https://github.com/hedge-dev/UnleashedRecomp",
+  "status": "released",
+  "version": "1.4.2",
+  "downloadUrl": null,
+  "fileSizeBytes": 0,
+  "sha256": null,
+  "tags": [
+    "3D Platformer",
+    "Ação",
+    "Aventura"
+  ],
+  "lastUpdated": "2026-08-12",
+  "banner": "banner.png",
+  "cover": "cover.png",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ]
+}

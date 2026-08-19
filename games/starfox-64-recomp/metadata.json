@@ -1,0 +1,26 @@
+{
+  "slug": "starfox-64-recomp",
+  "name": "Star Fox 64 Recompiled",
+  "description": "Star Fox 64 recompilado a partir da ROM original, resgatando velocidade, vozes e rotas secretas para jogar em alta resolução e alto framerate.",
+  "originalPlatform": "Nintendo 64",
+  "author": "Starfox64Recomp",
+  "sourceRepo": "https://github.com/Starfox64Recomp",
+  "status": "beta",
+  "version": "0.8.0",
+  "downloadUrl": null,
+  "fileSizeBytes": 0,
+  "sha256": null,
+  "tags": [
+    "Rail Shooter",
+    "Nave",
+    "Arcade"
+  ],
+  "lastUpdated": "2026-06-18",
+  "banner": "banner.png",
+  "cover": "cover.png",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ]
+}
