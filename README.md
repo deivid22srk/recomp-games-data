@@ -11,13 +11,25 @@ Cada jogo vive em uma pasta dentro de `games/`:
 games/
 └── nome-do-jogo/
     ├── metadata.json      → todos os metadados do jogo
-    ├── cover.png          → capa 3:4 (600x800 recomendado)
-    ├── banner.png         → banner/hero 16:9 (1600x900 recomendado)
+    ├── cover.png          → capa 3:4
+    ├── banner.png         → banner/hero 16:9
     └── screenshots/
-        ├── 1.png          → capturas 16:9 (1280x720 recomendado)
+        ├── 1.png          → capturas 16:9
         ├── 2.png
         └── ...
 ```
+
+## Tamanho ideal das imagens
+
+| Imagem       | Proporção  | Tamanho ideal | Não ultrapassar |
+|--------------|------------|---------------|-----------------|
+| `cover`      | 3:4        | 600x800       | 1200x1600       |
+| `banner`     | 16:9       | 1280x720      | 1920x1080       |
+| `screenshots`| 16:9       | 1280x720      | 1920x1080       |
+
+> Use sempre a proporção exata indicada (ex.: **1280x720, 16:9**) para evitar cortes
+> e distorções no app. Imagens maiores que o ideal são redimensionadas pelo app,
+> mas aumentam o tempo de carregamento e o consumo de dados — prefira o tamanho ideal.
 
 O arquivo `index.json` na raiz consolida um resumo de todos os jogos e é o que o aplicativo
 carrega primeiro para montar a Home rapidamente.
